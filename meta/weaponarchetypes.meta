@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>w_lr_molotovlauncher</modelName>
+			<txdName>w_lr_molotovlauncher</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="100"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>
+
